@@ -172,7 +172,7 @@ def write_csv(chunks) :
             i += 1
 
 def main() :
-    #Uncomment Lines 169-170 to extract IGT from a new file.
+    #Uncomment Lines 176-177 to extract IGT from a new file.
     #file = "Dissertation-Draft-Ambrocio-Gutierrez-2021.docx"
     #extract_igt(file)
 
@@ -197,7 +197,7 @@ def main() :
         j += 1
     print('\n')
 
-    #Uncomment Line 194 to produce new output CSV (Current form: igt_train.csv)
+    #Uncomment Line 201 to produce new output CSV (Current form: igt_train.csv)
     #write_csv(chunks)
 
 main()
