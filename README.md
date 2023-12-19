@@ -7,3 +7,7 @@ For example:
 (1) In Terminal, open folder containing input TXT files and extract_igt.py
 
 (2) Type the command: python extract_igt.py
+
+### Segmentation Model
+
+The segmentation model is too large to upload here and will be delivered to Ambrocio personally in another form.
