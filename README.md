@@ -1,4 +1,4 @@
-##Instructions
+## Instructions
 
 Run extract_igt.py in your Terminal to access lexicons with TdVZ Surface Form -> TdVZ Canonical Segmentations and TdVZ Canonical Segmentations -> TdVZ Surface Forms directions.
 
